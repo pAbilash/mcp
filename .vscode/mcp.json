@@ -1,0 +1,10 @@
+{
+	"servers": {
+		"mcp-server-db": {
+			"command": "C:/Users/abila/OneDrive/Documents/AgenticAI/mcp/mcp_env/Scripts/python.exe",
+			"args": [
+				"mcp_custom/custom_parse.py"
+			],
+		}
+	}
+}
