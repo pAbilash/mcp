@@ -55,4 +55,4 @@ async def delete_item(item_id: int) -> str:
 if __name__ == "__main__":
     import asyncio
     asyncio.run(init_db())  # Initialize database before starting the server
-    mcp.run()
+    mcp.run(transport="stdio")

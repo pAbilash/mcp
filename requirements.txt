@@ -3,3 +3,6 @@ fastapi-mcp
 uvicorn
 fastmcp
 feedparser
+strands-agents
+strands-agents-tools
+langchain_groq
